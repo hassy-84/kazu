@@ -1,0 +1,173 @@
+header {
+  height: 100px;
+  background-color: #ff8800;
+  text-align: center;
+}
+
+header p {
+  color: white;
+  line-height: 100px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.main {
+  height: 100%;
+  margin: 0 auto;
+}
+
+.main .main-container {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0 0 0;
+}
+
+.main .main-container .main-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #ff8800;
+}
+
+.main .main-container p {
+  color: #e69807;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+footer {
+  height: 100px;
+  background-color: #ff8800;
+  text-align: center;
+}
+
+footer .footer-container {
+  padding-top: 10px;
+}
+
+footer p {
+  color: white;
+  font-size: 10px;
+  padding-top: 30px;
+  margin-top: 0;
+}
+
+.main-contents {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0 0 0;
+  background-color: #fad287;
+}
+
+.main-contents .html {
+  width: 200px;
+  height: 250px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  background-color: #00d9ff;
+}
+
+.main-contents .html h3 {
+  color: rgba(14, 12, 12, 0.582);
+  padding-bottom: 5px;
+}
+
+.main-contents .html img {
+  display: block;
+  margin: 0 auto 25px;
+  width: 100px;
+  height: 100px;
+}
+
+.main-contents .html a {
+  padding: 5px 10px;
+  font-size: 15px;
+  background-color: white;
+  color: #00d9ff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.main-contents .html a:hover {
+  color: white;
+  background-color: #008299;
+}
+
+.main-contents .JavaScript {
+  width: 200px;
+  height: 250px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  background-color: #e8f803;
+}
+
+.main-contents .JavaScript h3 {
+  color: rgba(14, 12, 12, 0.582);
+  padding-bottom: 5px;
+}
+
+.main-contents .JavaScript img {
+  display: block;
+  margin: 0 auto 25px;
+  width: 100px;
+  height: 100px;
+}
+
+.main-contents .JavaScript a {
+  padding: 5px 10px;
+  font-size: 15px;
+  background-color: white;
+  color: #e8f803;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.main-contents .JavaScript a:hover {
+  color: white;
+  background-color: #8a9302;
+}
+
+.main-contents .ruby {
+  width: 200px;
+  height: 250px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  background-color: #fc22d7;
+}
+
+.main-contents .ruby h3 {
+  color: rgba(14, 12, 12, 0.582);
+  padding-bottom: 5px;
+}
+
+.main-contents .ruby img {
+  display: block;
+  margin: 0 auto 25px;
+  width: 100px;
+  height: 100px;
+}
+
+.main-contents .ruby a {
+  padding: 5px 10px;
+  font-size: 15px;
+  background-color: white;
+  color: #fc22d7;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.main-contents .ruby a:hover {
+  color: white;
+  background-color: #b60297;
+}
+/*# sourceMappingURL=stylesheet.css.map */
